@@ -30,8 +30,10 @@
 
 ---
 
-<video src='https://gemoo.com/tools/upload-video/share/628002720930963456?codeId=P576zObQoLyAo&card=628002716115902464&origin=videolinkgenerator' width=180/>
- <source src="" type="video/mp4">
+<video width="640" height="360" controls>
+  <source src="https://gemoo.com/tools/upload-video/share/627998031149633536?codeId=v67eryQR8Oowz&card=627998026280046592&origin=videolinkgenerator" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Table of Contents
 
