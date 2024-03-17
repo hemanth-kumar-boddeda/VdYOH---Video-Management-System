@@ -29,8 +29,7 @@
 </p>
 
 ---
-
-<video width="640" height="360" controls>
+<video width="320" height="240" controls>
   <source src="https://gemoo.com/tools/upload-video/share/627998031149633536?codeId=v67eryQR8Oowz&card=627998026280046592&origin=videolinkgenerator" type="video/mp4">
   Your browser does not support the video tag.
 </video>
